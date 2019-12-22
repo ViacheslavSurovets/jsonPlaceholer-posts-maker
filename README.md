@@ -7,6 +7,6 @@ Available Scripts
 
 In the begining you should clone or download this project
 
-https://github.com/ViacheslavSurovets/jsonPlaceholder-posts-maker .git
+https://github.com/ViacheslavSurovets/jsonPlaceholder-posts-maker.git
 
 npm start
